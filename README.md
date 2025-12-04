@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/IfbXG6K.png" width="100%" />
-</p>
 
 <h1 align="center">Hi, I'm Riya 👋</h1>
 <p align="center">Full Stack Developer | Frontend Developer | Java | Spring Boot | JavaScript | React</p>
