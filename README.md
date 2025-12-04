@@ -59,7 +59,6 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riya-gupta1819&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riya-gupta1819&theme=radical" height="170"/>
 </p>
 
