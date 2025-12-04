@@ -65,18 +65,17 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riya-gupta1819&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-gupta1819&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Riya-gupta1819&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riya-gupta1819&theme=radical" alt="Streak Stats" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Riya-gupta1819&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-gupta1819&layout=compact&theme=radical" height="180"/>
 </p>
 
----
 
 # 🔗 Connect With Me
 - **GitHub:** https://github.com/Riya-gupta1819  
