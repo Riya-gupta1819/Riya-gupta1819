@@ -13,7 +13,7 @@
 
 ---
 
-# 🛠 Tech Stack (with Icons)
+# 🛠 Tech Stack
 
 ## **Frontend**
 <p align="left">
